@@ -6,7 +6,7 @@ ___
 
 I was a career nomad, traveling between my two passions: healthcare and art, before discovering a career that allowed me to combine the two through product design and use my creativity to help people.
 
-Now I'm an end-to-end product designer based in NYC with a passion for design ops and system design. I believe that solving problems is a creative, cross-functional, and collaborative process.
+Now I'm an end-to-end product designer based in NYC with a passion for design ops and system design. 
 ___
 ## Design Experience
 
