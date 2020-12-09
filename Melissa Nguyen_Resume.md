@@ -11,24 +11,24 @@ I had always wanted to help people. Growing up the only way I knew how was to ge
 ___
 ## Design Experience
 
-### Freelance Product Designer
+#### Freelance Product Designer
 ###### Dec 2019 - Present | New York, NY
 <p>Conduct user research, develop product design strategies, information architecture, branding, UI design, prototyping, and usability testing </p> 
 
-### Erie Elementary Charter School / Product Designer and Webflow Developer
+#### Erie Elementary Charter School / Product Designer and Webflow Developer
 ###### May 2020 - Nov 2020 | Remote
 * Spearhead responsive web redesigns of Erie Elementary’s school website with second designer
 * Improve information architecture, streamlined user flows, and UI kit consistent with branding
 * Pillar icon illustrations for web and print
 * Developed redesigns onto Webflow platform
 
-### CalligraCrafty/ Freelance Calligrapher
+#### CalligraCrafty / Freelance Calligrapher
 ###### Nov 2016 - Present | New York, NY
 * Collaboratively work with clients to produce one-of-a-kind artwork through a variety of mediums
 * Elevate products and/or services by bringing a touch of elegance and personalization to celebrate your special event(s)
 * Notable clients: Goop Gift NYC (2017), Goop Lab (2018 - 2019), Pandora Jewelry (2019), Floral Street (2020)
 
-### Memorial Sloan Kettering - JRSC/ Surgical Support Assistant
+#### Memorial Sloan Kettering - JRSC / Surgical Support Assistant
 ###### Oct 2015 - Nov 2016| New York, NY
 * Ensure patient safety measures are held throughout
 * Cross-department collaboration with the perioperative and surgical team
@@ -36,7 +36,7 @@ ___
 * Team leader to established SSAs and mentor to new SSAs
 * Quality control management
 
-### CityMD Urgent Care Center/ Senior Medical Scribe
+#### CityMD Urgent Care Center / Senior Medical Scribe
 ###### Jun 2013 - Jul 2015| New York, NY
 * Serve as a patient advocate throughout their visitation
 * Patient healthcare documentation
