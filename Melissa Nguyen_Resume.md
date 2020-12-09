@@ -11,8 +11,7 @@ I had always wanted to help people. Growing up the only way I knew how was to ge
 ___
 ## Design Experience
 
-#### Freelance Product Designer
-###### Dec 2019 - Present | New York, NY
+#### Freelance Product Designer ###### Dec 2019 - Present | New York, NY
 * <p>Conduct user research, develop product design strategies, information architecture, branding, UI design, prototyping, and usability testing </p> 
 
 #### Erie Elementary Charter School / Product Designer and Webflow Developer
