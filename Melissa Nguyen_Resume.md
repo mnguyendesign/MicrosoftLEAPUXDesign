@@ -10,7 +10,7 @@ I'm an end-to-end product designer based in NYC with a passion for design ops an
 I had always wanted to help people. Growing up the only way I knew how was to get into medicine.  I was a career nomad traveling between my two passions: science and art before discovering a career that allowed me to combine the two through ux design. 
 
 ___
-##Design Experience
+## Design Experience
 
 ### Freelance Product Designer
 ###### Dec 2019 - Present | New York, NY
@@ -43,7 +43,7 @@ ___
 * Assist physicians with exams, documentation, basic procedures, treatments, and diagnostic testing such as IV therapy, EKG, injury stabilization, and specimen collection.
 * Facilitate advanced imaging, insurance management, and specialist referrals.
 
-__
+___
 ## Awards
 
 ### Rosenfeld Media's DesignOps 2020 Scholarship
