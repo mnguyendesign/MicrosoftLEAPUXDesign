@@ -1,5 +1,4 @@
 # Melissa Nguyen
-### Product Designer 
 ###### [Portfolio](http://melissanguyen.design) | [LinkedIn](https://www.linkedin.com/in/mnguyen320) | [Email](hello@melissanguyen.design)
 
 ___
