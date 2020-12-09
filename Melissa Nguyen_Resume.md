@@ -13,7 +13,7 @@ ___
 
 #### Freelance Product Designer
 ###### Dec 2019 - Present | New York, NY
-<p>Conduct user research, develop product design strategies, information architecture, branding, UI design, prototyping, and usability testing </p> 
+* <p>Conduct user research, develop product design strategies, information architecture, branding, UI design, prototyping, and usability testing </p> 
 
 #### Erie Elementary Charter School / Product Designer and Webflow Developer
 ###### May 2020 - Nov 2020 | Remote
