@@ -56,8 +56,8 @@ ___
 * Project "STEAMcycle" is set to be developed beyond the challenge and be used to aid in supplying under resourced students in the San Francisco Bay Area with tech
 
 ### Chan Zuckerberg Initiative x Adobe Creative Jams
-##### #May 2020
-* Named as one of the top 20 projects amongst 90+ team submissions
+###### May 2020
+* Named as one of the top 20 projects amongst 90+ team submissions for mobile design app aimed to provide stability and protect the livelihoods of farmworker
 ___
 ### Education
 
