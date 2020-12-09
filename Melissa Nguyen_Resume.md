@@ -48,7 +48,7 @@ ___
 
 ### Rosenfeld Media's DesignOps 2020 Scholarship
 ###### Oct 21-23, 2020
-*Awarded full scholarship to attend Rosenfeld Media's DesignOps, a 3-day virtual conference 
+* Awarded full scholarship to attend Rosenfeld Media's DesignOps, a 3-day virtual conference 
 
 ### Webflow's Global Maker Day Hackathon
 ###### Sept 2020
@@ -73,20 +73,20 @@ ___
 ## Skills
 
 #### Tools
-*Wireframes: Sketch, Figma, & Adobe XD
-*Prototyping: Invision, Marvel
-*Programming: HTML/CSS (In progress)
-*Other: Webflow & Wix
+* Wireframes: Sketch, Figma, & Adobe XD
+* Prototyping: Invision, Marvel
+* Programming: HTML/CSS (In progress)
+* Other: Webflow & Wix
 
 #### Design
-*Interviews & Surveys
-*Wireframes & Prototyping
-*Storyboarding & User journeys
-*Interaction & Visual Design
-*Quanitative & Qualitive Analysis Methods
-*Usability Testing
+* Interviews & Surveys
+* Wireframes & Prototyping
+* Storyboarding & User journeys
+* Interaction & Visual Design
+* Quanitative & Qualitive Analysis Methods
+* Usability Testing
 
 #### Languages
-*Spoken: English, Teochew, Cantonese, Vietnamese & Mandarin
+* Spoken: English, Teochew, Cantonese, Vietnamese & Mandarin
 
 
