@@ -1,6 +1,6 @@
 # Melissa Nguyen
 ### Product Designer 
-###### [Portfolio](http://melissanguyen.design) | [LinkedIn](https://www.linkedin.com/in/mnguyen320) | [Email] hello@melissanguyen.design
+###### [Portfolio](http://melissanguyen.design) | [LinkedIn](https://www.linkedin.com/in/mnguyen320) | [Email](hello@melissanguyen.design)
 
 ___
 ## About Me
@@ -18,8 +18,9 @@ ___
 
 ### Erie Elementary Charter School / Product Designer and Webflow Developer
 ###### May 2020 - Nov 2020 | Remote
-* Spearhead responsive web redesigns of Erie Elementary’s school website with improved information architecture, streamlined user flows, and visual design
-* Icon illustrations
+* Spearhead responsive web redesigns of Erie Elementary’s school website with second designer
+* Improve information architecture, streamlined user flows, and UI kit consistent with branding
+* Pillar icon illustrations for web and print
 * Developed redesigns onto Webflow platform
 
 ### CalligraCrafty/ Freelance Calligrapher
