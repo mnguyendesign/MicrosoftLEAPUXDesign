@@ -59,13 +59,13 @@ ___
 ###### May 2020
 * Named as one of the top 20 projects amongst 90+ team submissions for mobile design app aimed to provide stability and protect the livelihoods of farmworker
 ___
-### Education
+## Education
 
-#### Designlab's UX Academy 
+### Designlab's UX Academy 
 ###### 2019 - 2020
 <p>Completed over 500+ hours of user experience and interface design education, implementing UX/UI design skills through web and mobile app projects, online learning modules, weekly group critique sessions and weekly 1-on-1 mentorship with senior designers. </p>
 
-#### Skidmore College
+### Skidmore College
 ##### B.S., Health and Exercise Science
 ###### Aug 2008 - May 2012
 
