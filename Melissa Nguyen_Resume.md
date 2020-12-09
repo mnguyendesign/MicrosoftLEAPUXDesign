@@ -73,10 +73,10 @@ ___
 ## Skills
 
 ### Tools
-* *Wireframes: Sketch, Figma, & Adobe XD
-* *Prototyping: Invision, Marvel
-* *Programming: HTML/CSS (In progress)
-* *Other: Webflow & Wix Development
+* *Wireframes:* Sketch, Figma, & Adobe XD
+* *Prototyping:* Invision, Marvel
+* *Programming:* HTML/CSS (In progress)
+* *Other:* Webflow & Wix Development
 
 ### Design
 * Interviews & Surveys
